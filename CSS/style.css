@@ -1,0 +1,111 @@
+    *{
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+    }
+    
+    body{
+        background-color: white;
+        color: #fef9ef;
+        font-size: 14px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+       h1{
+        color: red;
+       }
+
+       .headings{
+        color: white;
+       }
+
+       .head{
+        color: black;
+       }
+
+       #menu{
+        background-color: black;
+        width: auto;
+        height: 80px;
+        color: #fef9ef;
+        padding: 30px 50px;
+       }
+
+       #menu a{
+        text-decoration: none;
+        color: white;
+        font-weight: 600;
+        padding: 10px 30px;
+        background-color: purple;
+        border-radius: 10px;
+        display: inline-block;
+       }
+
+       #menu a:hover{
+        background-color: rgb(243, 209, 15);
+       }
+
+
+       #rush{
+        background-color: white;
+        width: auto;
+        color: black;
+        padding-left: 5px;
+
+       }
+
+       #hero{
+        background-color: rgb(48, 3, 48);
+        color: black;
+        width: auto;
+        height: 400px;
+        border-radius: 20px;
+        text-align: center;
+        padding-top: 100px;
+       }
+
+       #hero h1{
+        color: white;
+        font-size: 50px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+       }
+
+       #hero p{
+        color: white;
+        font-size: 20px;
+       }
+
+       #hero a{
+        background-color: black;
+        color: white;
+        text-decoration: none;
+        padding: 15px;
+        border-radius: 5px;
+        display: inline-block;
+
+       }
+
+       #hero a:hover{
+        background-color: rgb(25, 58, 25);
+        color: aqua;
+       }
+
+
+       #courses{
+        margin-top: 30px;
+        text-align: center;
+        color: blueviolet;
+        margin-bottom: 10px;
+       }
+
+       #courses h1{
+        color: black;
+        font-size: 30px;
+        margin-bottom: 10px;
+       }
+
+       #courses img{
+        height: 150px;
+        margin: 0px 5px;
+        border-radius: 10px;
+       }
